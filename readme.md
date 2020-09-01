@@ -4,3 +4,5 @@
 First commit on branch B
 Second commit on branch B
 Fifth commit on branch master
+ First commit in branch A
+Second commit on branch A
